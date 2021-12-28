@@ -3,3 +3,4 @@
 live.bilibili.com/24923
 
 this repo releases some audio which could help you relax and sleep
+you can download them in the release section
